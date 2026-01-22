@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome!",
-    "section": "",
-    "text": "Welcome!\nWelcome to the LACDR Data Stewardship Wizard (DS Wizard) guide, which should help you create and maintain a Data Management Plan (DMP) for your research project.\nTo get started click on one of the tabs at the top of the page.\n\n\n\n\n\n\nImportantWork in progress\n\n\n\nThis website is a work in progress. Feel free to suggest improvements using the Github links at the bottom or on the right, or contact Gerhard Burger."
-  },
-  {
     "objectID": "docs/reviewers.html",
     "href": "docs/reviewers.html",
     "title": "Reviewing a DMP in the Leiden DS Wizard",
@@ -26,6 +19,13 @@
     "title": "Reviewing a DMP in the Leiden DS Wizard",
     "section": "Reviewing a DMP",
     "text": "Reviewing a DMP"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Welcome!\nWelcome to the LACDR Data Stewardship Wizard (DS Wizard) guide, which should help you create and maintain a Data Management Plan (DMP) for your research project.\nTo get started click on one of the tabs at the top of the page.\n\n\n\n\n\n\nImportantWork in progress\n\n\n\nThis website is a work in progress. Feel free to suggest improvements using the Github links at the bottom or on the right, or contact Gerhard Burger."
   },
   {
     "objectID": "docs/researchers.html",
