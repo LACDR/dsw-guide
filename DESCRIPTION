@@ -1,0 +1,11 @@
+Package: LACDR.DSW.Guide
+Title: LACDR DS Wizard Guide
+Version: 0.0.0.9000
+Authors@R: 
+    person("Gerhard", "Burger", , "burger.ga@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-1062-5576"))
+Description: Provides a DS Wizard guide for the LACDR DMP course as a Quarto site.
+License: CC0
+Encoding: UTF-8
+Imports: 
+    rmarkdown

@@ -1,0 +1,35 @@
+project:
+  type: website
+  resources:
+  - functions/
+
+website:
+  title: "LACDR DS Wizard guide"
+  site-url: https://lacdr.github.io/dsw-guide
+  repo-url: https://github.com/LACDR/dsw-guide
+  repo-actions: [edit, issue]
+  navbar:
+    search: true
+    left:
+      - text: "Create DMP"
+        href: docs/researchers.qmd
+      - text: "Review DMP"
+        href: docs/reviewers.qmd
+
+  page-footer:
+    center:
+      - text: "License: CC0"
+        href: https://creativecommons.org/publicdomain/zero/1.0/
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+
+include-in-header:
+- text: |
+    <meta name="robots" content="noindex, nofollow">
