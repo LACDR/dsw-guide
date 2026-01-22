@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Welcome!\nWelcome to the LACDR Data Stewardship Wizard (DS Wizard) guide, which should help you create and maintain a Data Management Plan (DMP) for your research project.\nTo get started click on one of the tabs at the top of the page.\n\n\n\n\n\n\nImportantWork in progress\n\n\n\nThis website is a work in progress. Feel free to suggest improvements using the Github links at the bottom or on the right, or contact Gerhard Burger."
+  },
+  {
+    "objectID": "docs/reviewers.html",
+    "href": "docs/reviewers.html",
+    "title": "Reviewing a DMP in the Leiden DS Wizard",
+    "section": "",
+    "text": "If you don’t already have an account for the Leiden instance of the DS Wizard (https://leiden.ds-wizard.org/), you will need to create one.\nTo create an account, go to https://leiden.ds-wizard.org/ and click the Sign Up button at the top right. Fill in your details and use your Leiden University email address. After submitting the form, you will receive an email to verify your account. Once verified, you can login to the DS Wizard.\n\n\n\nOn first login, you will be on the Dashboard, where you will be shown the link to the Projects page where you will manage/review DMPs. By default the Projects page will show you all DMPs you have created or that have been shared with you. At first this is very likely empty. To view all accessible projects in the DS Wizard, click the button with your name:\n and deselect your name from the filter list:"
+  },
+  {
+    "objectID": "docs/reviewers.html#ds-wizard-introduction",
+    "href": "docs/reviewers.html#ds-wizard-introduction",
+    "title": "Reviewing a DMP in the Leiden DS Wizard",
+    "section": "",
+    "text": "If you don’t already have an account for the Leiden instance of the DS Wizard (https://leiden.ds-wizard.org/), you will need to create one.\nTo create an account, go to https://leiden.ds-wizard.org/ and click the Sign Up button at the top right. Fill in your details and use your Leiden University email address. After submitting the form, you will receive an email to verify your account. Once verified, you can login to the DS Wizard.\n\n\n\nOn first login, you will be on the Dashboard, where you will be shown the link to the Projects page where you will manage/review DMPs. By default the Projects page will show you all DMPs you have created or that have been shared with you. At first this is very likely empty. To view all accessible projects in the DS Wizard, click the button with your name:\n and deselect your name from the filter list:"
+  },
+  {
+    "objectID": "docs/reviewers.html#reviewing-a-dmp",
+    "href": "docs/reviewers.html#reviewing-a-dmp",
+    "title": "Reviewing a DMP in the Leiden DS Wizard",
+    "section": "Reviewing a DMP",
+    "text": "Reviewing a DMP"
+  },
+  {
+    "objectID": "docs/researchers.html",
+    "href": "docs/researchers.html",
+    "title": "Creating a DMP in the Leiden DS Wizard",
+    "section": "",
+    "text": "If you don’t already have an account for the Leiden instance of the DS Wizard (https://leiden.ds-wizard.org/), you will need to create one.\nTo create an account, go to https://leiden.ds-wizard.org/ and click the Sign Up button at the top right. Fill in your details and use your Leiden University email address. After submitting the form, you will receive an email to verify your account. Once verified, you can login to the DS Wizard.\n\n\n\nOn first login, you will be on the Dashboard, where you will be shown the link to the Projects page where you will manage/review DMPs. By default the Projects page will show you all DMPs you have created or that have been shared with you. At first this is very likely empty. To view all accessible projects in the DS Wizard, click the button with your name:\n and deselect your name from the filter list:"
+  },
+  {
+    "objectID": "docs/researchers.html#ds-wizard-introduction",
+    "href": "docs/researchers.html#ds-wizard-introduction",
+    "title": "Creating a DMP in the Leiden DS Wizard",
+    "section": "",
+    "text": "If you don’t already have an account for the Leiden instance of the DS Wizard (https://leiden.ds-wizard.org/), you will need to create one.\nTo create an account, go to https://leiden.ds-wizard.org/ and click the Sign Up button at the top right. Fill in your details and use your Leiden University email address. After submitting the form, you will receive an email to verify your account. Once verified, you can login to the DS Wizard.\n\n\n\nOn first login, you will be on the Dashboard, where you will be shown the link to the Projects page where you will manage/review DMPs. By default the Projects page will show you all DMPs you have created or that have been shared with you. At first this is very likely empty. To view all accessible projects in the DS Wizard, click the button with your name:\n and deselect your name from the filter list:"
+  },
+  {
+    "objectID": "docs/researchers.html#creating-a-dmp",
+    "href": "docs/researchers.html#creating-a-dmp",
+    "title": "Creating a DMP in the Leiden DS Wizard",
+    "section": "Creating a DMP",
+    "text": "Creating a DMP\n\nCreating a project\nTo create a new Data Management Plan (DMP) in the DS Wizard, navigate to the Projects page and click the Create button at the top right. You will see the Project Create form.\n\n\n\n\n\nPick a Name that easily identifies your project, for example “Gerhard Burger’s PhD DMP”. Then select the Leiden University DMP template from the project template list.\n\n\n\n\n\n\nWarningData Management course\n\n\n\nIf you’re following the LACDR DM Course, please select the appropriate DM Course &lt;MONTH YEAR&gt; DMP Template. This template includes a tag that makes it easy for us to filter the DMPs.\n\n\n\n\n\n\n\n\nTipSpecialized templates\n\n\n\nThe Leiden University DMP template is a general template that should be suitable for a wide range of projects. It is possible to create derived templates from this general template by prefilling certain questions with division/research-group specific information.\n\n\nFinally, click “Create”. Your new project will open.\n\n\nAdding collaborators/reviewers\nBefore starting to fill in your DMP it may be useful to add collaborators/reviewers to your project. This way, they can help create/review the DMP. To add collaborators, follow the DSW instructions on Sharing.\n\n\n\n\n\n\nNoteData Management Course\n\n\n\nParticipants of the LACDR DM Course should add “Gerhard Burger” and “Kristina Hettne” to their DMP as Commenter so they can provide feedback. Your DMP will also be reviewed by a member from your research group whom you can add as Editor. Also add your supervisor as Owner. Check the table in the link above for the differences between these roles.\n\n\n\n\nFilling in the DMP\nYou are now ready to start filling in your DMP. The Leiden University DMP template consists of several chapters, each containing a number of questions. You can view the chapters and questions on the left hand side\n\n\n\n\n\n\nNotePhases\n\n\n\nYou can ignore the Phases section at the top of the question list. This is a more advanced feature that is not implemented in the Leiden University template.\n\n\nWhile developing the DMP, there are some handy tools to help you (click the links for detailed instructions):\n\nTODOs: Keep track of questions you don’t know how to answer yet and want to come back to later. NB: These are not visible to Viewers/Commenters.\nComments: Ask for help from collaborators/reviewers by adding comments to questions, you can also assign these comments to specific people.\nVersion History: Track changes to your DMP over time, and revert to previous versions if needed. You can also create Named Versions to mark important milestones in the project (e.g., annual reviews).\n\n\n\nPreview and Export\nAt any time you can preview your DMP by clicking the Preview tab at the top. For the Leiden University template, this will generate an HTML version of your DMP (but this can be changed in the project settings).\nTo export your DMP, Click the Documents tab at the top and select the desired format (PDF, Word, JSON, etc.)."
+  }
+]
