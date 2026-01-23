@@ -38,7 +38,7 @@ Participants of the LACDR DM Course should add "Gerhard Burger" and "Kristina He
 :::
 
 ### Filling in the DMP
-You are now ready to start filling in your DMP. The Leiden University DMP template consists of several chapters, each containing a number of questions. You can view the chapters and questions on the left hand side 
+You are now ready to start filling in your DMP. The Leiden University DMP template consists of several chapters, each containing a number of questions. You can view the chapters and questions on the left hand side. 
 
 :::{.callout-note}
 ## Phases
