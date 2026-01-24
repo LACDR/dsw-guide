@@ -16,11 +16,6 @@ To create a new Data Management Plan (DMP) in the DS Wizard, navigate to the *Pr
 
 Pick a *Name* that easily identifies your project, for example "Gerhard Burger's PhD DMP". Then select the *Leiden University DMP* template from the project template list.
 
-:::{.callout-warning}
-## Data Management course
-If you're following the LACDR DM Course, please select the appropriate *DM Course \<MONTH YEAR\> DMP Template*. This template includes a tag that makes it easy for us to filter the DMPs.
-:::
-
 :::{.callout-tip}
 ## Specialized templates
 The Leiden University DMP template is a general template that should be suitable for a wide range of projects. It is possible to create derived templates from this general template by prefilling certain questions with division/research-group specific information.
