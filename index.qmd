@@ -8,5 +8,5 @@ To get started click on one of the tabs at the top of the page.
 ::: {.callout-important}
 ## Work in progress
 
-This website is a work in progress. Feel free to suggest improvements using the Github links at the bottom or on the right, or contact {{< var people.gerhard >}}.
+This website is a work in progress. Feel free to suggest improvements using the Github links on the right, or contact {{< var people.gerhard >}}.
 :::

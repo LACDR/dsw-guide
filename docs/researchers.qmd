@@ -58,3 +58,5 @@ At any time you can preview your DMP by clicking the *Preview* tab at the top. F
 To export your DMP, Click the *Documents* tab at the top and select the desired format (PDF, Word, JSON, etc.).
 
 ![](../includes/screenshots/new-document.png){width=400 fig-align="center"}
+
+Click *Create*, you can now view and download your generated document from the list.
