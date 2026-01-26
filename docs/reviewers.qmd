@@ -7,3 +7,32 @@ format: html
 {{< include _create_lu_dsw_account.qmd >}}
 
 ## Reviewing a DMP
+
+You can now select the DMP you have been asked to review from the Projects page, and go through the questions and answers.
+
+As reviewer you have access to the project either via the Commenter or Editor role. As Commenter you cannot change the DMP itself, but can only add comments, as Editor you have the same rights as other DMP authors and you can also make changes to the DMP, see the table below (adapted from [DSW instructions on Sharing](https://guide.ds-wizard.org/en/latest/application/projects/list/detail/sharing.html)).
+
+|                            | Commenter | Editor |
+|:---------------------------|:-----:|:------:|
+| View/create comments       | ✔ | ✔ |
+| View/create editor notes   |   | ✔ |
+| Change answers             |   | ✔ | 
+| TODOs                      |   | ✔ |
+| Version history            |   | ✔ |
+
+: Role permissions
+
+Most of these tools are self-explanatory, but for more information you can consult the links below:
+
+* [**TODOs**](https://guide.ds-wizard.org/en/latest/application/projects/list/detail/questionnaire.html#todos): These are not visible to Viewers/Commenters, but can be used to indicate that a question still needs be answered.
+* [**Comments**](https://guide.ds-wizard.org/en/latest/application/projects/list/detail/questionnaire.html#comments): Ask for clarification or give feedback by adding comments to questions, you can also assign these comments to specific people. **NB:** Editor notes are a special type of Comments only visible to Editors and Owners.
+* [**Version History**](https://guide.ds-wizard.org/en/latest/application/projects/list/detail/questionnaire.html#version-history): View changes to the DMP over time, *Named Version*s can be used to mark important milestones in the project (e.g., reviews).
+
+### Recording your review
+
+In the Leiden DMP template the last chapter is used to record consultation and review sessions. If you are an Editor you can record your review here yourself, if you are a Commenter you can ask the DMP authors to add your review by leaving a comment. 
+Authors will be notified of your comments (especially if you assign it to the main author), but it may be useful to inform them you are finished with the review by email as well.
+
+:::{.callout-tip}
+As we're currently piloting the use of the DS Wizard for DMPs at Leiden University, please provide any feedback on the review process to {{< var people.gerhard >}} and {{< var people.kristina >}}.
+:::
