@@ -29,7 +29,3 @@ format:
     css: styles.css
     toc: true
     toc-depth: 3
-
-include-in-header:
-- text: |
-    <meta name="robots" content="noindex, nofollow">
