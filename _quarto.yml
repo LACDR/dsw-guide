@@ -4,22 +4,32 @@ project:
   - functions/
 
 website:
-  title: "LACDR DS Wizard guide"
+  title: "DS Wizard guide"
   site-url: https://lacdr.github.io/dsw-guide
   repo-url: https://github.com/LACDR/dsw-guide
   repo-actions: [edit, issue]
   navbar:
+    logo: "/includes/images/lacdr_logo.png"
     search: true
     left:
       - text: "Create DMP"
         href: docs/researchers.qmd
       - text: "Review DMP"
         href: docs/reviewers.qmd
+    right:
+    - text: "![](/includes/images/dsw-logo-icon-crop.png){height=1.2em}"
+      href: https://leiden.ds-wizard.org/
 
   page-footer:
     center:
       - text: "License: CC0"
         href: https://creativecommons.org/publicdomain/zero/1.0/
+  announcement:
+    icon: exclamation-circle
+    dismissable: true
+    content: "**Work in Progress** - Please report issues and suggest improvements using the Github links in the side bar."
+    type: warning
+    position: below-navbar
 
 bibliography: references.bib
 

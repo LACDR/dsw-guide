@@ -3,10 +3,13 @@
 Welcome to the LACDR  Data Stewardship Wizard (DS Wizard) guide, which should
 help you create and maintain a Data Management Plan (DMP) for your research project.
 
-To get started click on one of the tabs at the top of the page.
+To get started click on one of the buttons below:
 
-::: {.callout-important}
-## Work in progress
-
-This website is a work in progress. Feel free to suggest improvements using the Github links on the right, or contact {{< var people.gerhard >}}.
+::: {.grid .gap-3 .pb-3 .pt-4}
+::: {.g-col-12 .g-col-sm-4}
+[Create DMP](/docs/researchers.qmd){.btn-action-primary .btn-action .btn .btn-lg .w-100 role="button"}
+:::
+::: {.g-col-12 .g-col-sm-4}
+[Review DMP](/docs/reviewers.qmd){.btn-secondary .btn-action .btn .btn-lg .w-100 role="button"}
+:::
 :::
