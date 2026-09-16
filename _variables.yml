@@ -1,5 +1,10 @@
 version: 1.2
 
+instance: 
+  url: "<https://lacdr-rdm-course.fair-wizard.com/>"
+  name: "LACDR FAIR Wizard"
+  software: "FAIR Wizard"
+
 people:
   gerhard: "[Gerhard Burger](mailto:g.a.burger@lacdr.leidenuniv.nl)"
   sylvia: "[Sylvia Le Dévédec](mailto:s.e.ledevedec@lacdr.leidenuniv.nl)"

@@ -1,6 +1,6 @@
 # Welcome! {.unnumbered}
 
-Welcome to the LACDR  Data Stewardship Wizard (DS Wizard) guide, which should
+Welcome to the {{< var instance.name >}} guide, which should
 help you create and maintain a Data Management Plan (DMP) for your research project.
 
 To get started click on one of the buttons below:

@@ -1,5 +1,5 @@
 ---
-title: "Reviewing a DMP in the Leiden DS Wizard"
+title: "Reviewing a DMP in the {{< var instance.name >}}"
 format: html
 ---
 
@@ -34,5 +34,5 @@ In the Leiden DMP template the last chapter is used to record consultation and r
 Authors will be notified of your comments (especially if you assign it to the main author), but it may be useful to inform them you are finished with the review by email as well.
 
 :::{.callout-tip}
-As we're currently piloting the use of the DS Wizard for DMPs at Leiden University, please provide any feedback on the review process to {{< var people.gerhard >}} and {{< var people.kristina >}}.
+As we're currently piloting the use of the {{< var instance.software >}} for DMPs at Leiden University, please provide any feedback on the review process to {{< var people.gerhard >}} and {{< var people.kristina >}}.
 :::

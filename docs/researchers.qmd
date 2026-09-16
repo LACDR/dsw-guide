@@ -1,5 +1,5 @@
 ---
-title: "Creating a DMP in the Leiden DS Wizard"
+title: "Creating a DMP in the {{< var instance.name >}}"
 format: html
 fig-align: center
 ---
@@ -10,7 +10,7 @@ fig-align: center
 
 ### Creating a project
 
-To create a new Data Management Plan (DMP) in the DS Wizard, navigate to the *Projects* page and click the *Create* button at the top right. You will see the Project Create form. 
+To create a new Data Management Plan (DMP) in the {{< var instance.software >}}, navigate to the *Projects* page and click the *Create* button at the top right. You will see the Project Create form. 
 
 ![](../includes/screenshots/create-project.png){width=400 fig-align="center"}
 
@@ -29,7 +29,7 @@ Before starting to fill in your DMP it may be useful to add collaborators/review
 
 :::{.callout-note}
 ## Data Management Course
-Your DMP will be reviewed by a member from your research group (TBD) whom you can add as *Editor*. Also add your supervisor as *Owner*. Check the table in the link above for the differences between these roles. You can also add reviewers as *Commenter*, then they can only add comments and not change the DMP itself. It is not necessary to add {{< var people.kristina >}} and {{< var people.gerhard >}} as they already have access to all DMPs as DS Wizard Admins.
+Your DMP will be reviewed by a member from your research group (TBD) whom you can add as *Editor*. Also add your supervisor as *Owner*. Check the table in the link above for the differences between these roles. You can also add reviewers as *Commenter*, then they can only add comments and not change the DMP itself. It is not necessary to add {{< var people.kristina >}} and {{< var people.gerhard >}} as they already have access to all DMPs as {{< var instance.software >}} Admins.
 :::
 
 ### Filling in the DMP
