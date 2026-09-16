@@ -2,20 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Reviewing a DMP in the Leiden DS Wizard – DS Wizard guide</title>
+<title>Reviewing a DMP in the LACDR FAIR Wizard – FAIR Wizard guide</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -39,10 +42,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-bba5ebae505b5c03f3f0d8040a416a6b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-3e9b1289f5f353c49b617ce48ad2bc38.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -87,7 +90,7 @@ ul.task-list li input[type="checkbox"] {
     <img src="../includes/images/lacdr_logo.png" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="../index.html">
-    <span class="navbar-title">DS Wizard guide</span>
+    <span class="navbar-title">FAIR Wizard guide</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -107,8 +110,8 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="https://leiden.ds-wizard.org/"> 
-<span class="menu-text"><img src="../includes/images/dsw-logo-icon-crop.png" style="height:1.2em"></span></a>
+    <a class="nav-link" href="https://lacdr-rdm-course.fair-wizard.com/"> 
+<span class="menu-text"><img src="../includes/images/fair-wizard-favicon.ico" style="height:1.2em"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -116,9 +119,6 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-  <div id="quarto-announcement" data-announcement-id="b451476e47e2ef0d03ab37ab3e196e5b" class="alert alert-warning hidden"><i class="bi bi-exclamation-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
-<p><strong>Work in Progress</strong> - Please report issues and suggest improvements using the Github links in the side bar.</p>
-</div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
@@ -129,7 +129,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#ds-wizard-introduction" id="toc-ds-wizard-introduction" class="nav-link active" data-scroll-target="#ds-wizard-introduction">DS Wizard Introduction</a>
+  <li><a href="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2076617220696e7374616e63652e736f667477617265203e7d7d-introduction" id="toc-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2076617220696e7374616e63652e736f667477617265203e7d7d-introduction" class="nav-link active" data-scroll-target="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2076617220696e7374616e63652e736f667477617265203e7d7d-introduction">FAIR Wizard Introduction</a>
   <ul class="collapse">
   <li><a href="#creating-an-account" id="toc-creating-an-account" class="nav-link" data-scroll-target="#creating-an-account">Creating an account</a></li>
   <li><a href="#navigation" id="toc-navigation" class="nav-link" data-scroll-target="#navigation">Navigation</a></li>
@@ -146,7 +146,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Reviewing a DMP in the Leiden DS Wizard</h1>
+<h1 class="title">Reviewing a DMP in the LACDR FAIR Wizard</h1>
 </div>
 
 
@@ -163,16 +163,16 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="ds-wizard-introduction" class="level2">
-<h2 class="anchored" data-anchor-id="ds-wizard-introduction">DS Wizard Introduction</h2>
+<section id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2076617220696e7374616e63652e736f667477617265203e7d7d-introduction" class="level2">
+<h2 class="anchored" data-anchor-id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2076617220696e7374616e63652e736f667477617265203e7d7d-introduction">FAIR Wizard Introduction</h2>
 <section id="creating-an-account" class="level3">
 <h3 class="anchored" data-anchor-id="creating-an-account">Creating an account</h3>
-<p>If you don’t already have an account for the Leiden instance of the DS Wizard (<a href="https://leiden.ds-wizard.org/" class="uri">https://leiden.ds-wizard.org/</a>), you will need to create one.</p>
-<p>To create an account, go to <a href="https://leiden.ds-wizard.org/" class="uri">https://leiden.ds-wizard.org/</a> and click the <em>Sign Up</em> button at the top right. Fill in your details and use your Leiden University email address. After submitting the form, you will receive an email to verify your account (this can take a bit of time). Once verified, you can login to the DS Wizard.</p>
+<p>If you don’t already have an account for the Leiden instance of the FAIR Wizard (<a href="https://lacdr-rdm-course.fair-wizard.com/" class="uri">https://lacdr-rdm-course.fair-wizard.com/</a>), you will need to create one.</p>
+<p>To create an account, go to <a href="https://lacdr-rdm-course.fair-wizard.com/" class="uri">https://lacdr-rdm-course.fair-wizard.com/</a> and click the <em>Sign Up</em> button at the top right. Fill in your details and use your Leiden University email address. After submitting the form, you will receive an email to verify your account (this can take a bit of time). Once verified, you can login to the LACDR FAIR Wizard.</p>
 </section>
 <section id="navigation" class="level3">
 <h3 class="anchored" data-anchor-id="navigation">Navigation</h3>
-<p>On first login, you will be on the Dashboard, where you will be shown the link to the Projects page where you will manage/review DMPs. By default the Projects page will show you all DMPs you have created or that have been shared with you. As DMP creator, this is very likely empty at first. As reviewer, you should see the DMPs you have been assigned to review. To view all accessible projects in the DS Wizard (e.g., those that have been shared publicly), click the button with your name:</p>
+<p>On first login, you will be on the Dashboard, where you will be shown the link to the Projects page where you will manage/review DMPs. By default the Projects page will show you all DMPs you have created or that have been shared with you. As DMP creator, this is very likely empty at first. As reviewer, you should see the DMPs you have been assigned to review. To view all accessible projects in the FAIR Wizard (e.g., those that have been shared publicly), click the button with your name:</p>
 <p><img src="../includes/screenshots/project-overview.png" class="img-fluid"> and deselect your name from the filter list:</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -241,7 +241,7 @@ Tip
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>As we’re currently piloting the use of the DS Wizard for DMPs at Leiden University, please provide any feedback on the review process to <a href="mailto:g.a.burger@lacdr.leidenuniv.nl">Gerhard Burger</a> and <a href="mailto:k.m.hettne@library.leidenuniv.nl">Kristina Hettne</a>.</p>
+<p>As we’re currently piloting the use of the FAIR Wizard for DMPs at Leiden University, please provide any feedback on the review process to <a href="mailto:g.a.burger@lacdr.leidenuniv.nl">Gerhard Burger</a> and <a href="mailto:k.m.hettne@library.leidenuniv.nl">Kristina Hettne</a>.</p>
 </div>
 </div>
 
